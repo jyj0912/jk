@@ -5,10 +5,6 @@
             "name": "🐱xc"
         },
         {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🐋巧计"
-        },
-        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
             "name": "🐠道长"
         },
@@ -99,6 +95,10 @@
         {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "🐏ray"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "🐋巧计"
         },
         {
             "url": "http://tvbox.lengniuge.eu.org/ts",
