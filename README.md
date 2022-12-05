@@ -1,8 +1,4 @@
-# jiekou
 
-
-
-# TVBox
 
 #  配置接口设定 俊佬、T版等--> clan://localhost/文件路径/XX.json
 
