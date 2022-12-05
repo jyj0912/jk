@@ -5,6 +5,38 @@
             "name": "🐱xc"
         },
         {
+            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🐝fongmi"
+        },
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "🌵唐三"
+        },
+        {
+            "url": "http://饭太硬.ga/x/o.json",
+            "name": "🍞饭太硬"
+        },
+        {
+            "url": "https://agit.ai/jyj/ygbh/raw/branch/master/PRO.json",
+            "name": "🌟月光宝盒pro"
+        },
+        {
+            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
+            "name": "🌈kvymin"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "☕神器每日推送"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "🐋巧计"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "🐬甜蜜"
+        },
+        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
             "name": "🐠道长"
         },
@@ -17,28 +49,8 @@
             "name": "🐨多源自动拉取"
         },
         {
-            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🐝fongmi"
-        },
-        {
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "🐆云星日记"
-        },
-        {
-            "url": "https://hutool.ml/tang",
-            "name": "🌵唐三"
-        },
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🍄俊于"
-        },
-        {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🥦霜辉月明py"
-        },
-        {
-            "url": "http://饭太硬.ga/x/o.json",
-            "name": "🍞饭太硬"
         },
         {
             "url": "http://drpy.site/js1",
@@ -49,12 +61,12 @@
             "name": "🌷月光宝盒"
         },
         {
-            "url": "https://agit.ai/jyj/ygbh/raw/branch/master/PRO.json",
-            "name": "🌟月光宝盒pro"
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🍄俊于"
         },
         {
-            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
-            "name": "🌈kvymin"
+            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "🥦霜辉月明py"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox",
@@ -63,10 +75,6 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
             "name": "🐴xymc"
-        },
-        {
-            "url": "https://神器每日推送.tk/pz.json",
-            "name": "☕神器每日推送"
         },
         {
             "url": "https://tvbox.cainisi.cf",
@@ -85,28 +93,12 @@
             "name": "🦒元兴"
         },
         {
-            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
-            "name": "🐬甜蜜"
-        },
-        {
             "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/i",
             "name": "🐯胖虎"
         },
         {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "🐏ray"
-        },
-        {
-            "url": " https://agit.ai/jyj/mao11/raw/branch/master/00/%e8%87%aa%e7%94%a8.jpg",
-            "name": "🐯胖虎"
-        },
-        {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🐋巧计"
-        },
-        {
-            "url": "http://tvbox.lengniuge.eu.org/ts",
-            "name": "🐸ts"
         }
     ]
 }
