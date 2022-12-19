@@ -70,7 +70,7 @@
         },
         {
             "url": "http://我不是.肥猫.love:63",
-            "name": "🍠肥猫"
+            "name": "🐱肥猫"
         },
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
@@ -103,6 +103,10 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
             "name": "🐰fj"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/jyj0912/miao/main/TVBox/tvbox.json",
+            "name": "🐈miao"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json",
